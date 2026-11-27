@@ -4,7 +4,7 @@
 
 ## What it does
 
-<!-- One or two sentences: what a visitor can do with this page. -->
+This page lets you search for a museum by it's name or the name of the city it's in.
 
 ## Data source and licence
 
